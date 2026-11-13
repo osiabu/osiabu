@@ -1,6 +1,6 @@
 # Julius Abu
 
-Founder of [Aperintelligence](https://aperintelligence.com), a technology and AI company based in London. I build AI software where governance is part of the product: every decision is written to a tamper-evident audit chain, guardrails are evaluated before output leaves the system, and the design starts from who is accountable for what the AI did.
+Founder of [Aperintelligence](https://aperintelligence.com), a technology and AI company building intelligent systems and platforms for organisations of all types and sizes: our own software products, AI education, and builds for clients. Governance is built into the work: tamper-evident audit chains, guardrail evaluation, and a clear record of who is accountable for what the AI did.
 
 [Aperintelligence](https://aperintelligence.com) · [LinkedIn](https://www.linkedin.com/in/osiabu) · [Email](mailto:osi@aperintelligence.com)
 
@@ -14,13 +14,21 @@ Founder of [Aperintelligence](https://aperintelligence.com), a technology and AI
 ## Products
 
 - **[Hyperaxis](https://hyperaxis.co.uk)**: signs every AI decision into a tamper-evident audit chain, with a plain-English account of each decision for auditors and regulators.
+- **[Homedesk](https://homedesk.aperintelligence.com)**: AI apps for your own Windows PC. Raptor hands a goal to a team of agents and checks the finished work, Pro is a desk of assistants for your files, and Jasmine is a voice assistant you talk to.
 - **[AI Academy](https://academy.aperintelligence.com)**: a cohort-based AI engineering school with free taster sessions.
 - **[Vantage workshops](https://vantageuk.org)**: in-person workshops on generative AI and AI agents for adults, across the UK.
 - **[PythonCook](https://pythoncook.com)**: learning to read, debug and fix the Python an AI writes.
 
 ## Tools
 
-Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Playwright.
+- **Languages:** Python, TypeScript, JavaScript
+- **Web and mobile:** React, Next.js, React Native with Expo, Vite, Tailwind CSS
+- **Backend:** Node.js with Express, FastAPI, Socket.IO
+- **Data:** PostgreSQL (Supabase, Neon), Redis, SQLite
+- **AI:** the Claude, OpenAI and Gemini APIs; Claude Code, Codex and Grok as agents; local speech with faster-whisper, Kokoro and ONNX Runtime
+- **Payments and email:** Stripe, including Connect, and Resend
+- **Testing and hosting:** Playwright, Vitest, Jest, Vercel
+- **Security:** Ed25519 signing, SHA-256 hash chains, AES-256-GCM
 
 ## Contact
 
